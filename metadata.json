@@ -1,0 +1,6 @@
+{
+  "name": "Kaz AI - Kenyan Job AI SaaS",
+  "description": "AI that finds, validates, and applies for jobs in Kenya while you sleep. Auto-sends personalized applications from your Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
